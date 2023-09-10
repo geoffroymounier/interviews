@@ -7,7 +7,7 @@ Each row of the table must contain
 1. name of the pokemon
 2. types (grass, fire, etc...)
 
-### Find a pokemon
+### Find a pokemon
 Add an input to filter the list by name. 
 Please note that the API provides no search method, which means the filtering method must be run on the front-end, on the result from `/pokemon` endpoint, making sure we get all the pokemons and not the limited results.
 
